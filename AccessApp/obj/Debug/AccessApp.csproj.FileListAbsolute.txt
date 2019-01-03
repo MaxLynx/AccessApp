@@ -1,0 +1,10 @@
+c:\users\max\documents\visual studio 2017\Projects\AccessApp\AccessApp\bin\Debug\AccessApp.exe.config
+c:\users\max\documents\visual studio 2017\Projects\AccessApp\AccessApp\bin\Debug\AccessApp.exe
+c:\users\max\documents\visual studio 2017\Projects\AccessApp\AccessApp\bin\Debug\AccessApp.pdb
+c:\users\max\documents\visual studio 2017\Projects\AccessApp\AccessApp\obj\Debug\AccessApp.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2017\Projects\AccessApp\AccessApp\obj\Debug\AccessApp.Form1.resources
+c:\users\max\documents\visual studio 2017\Projects\AccessApp\AccessApp\obj\Debug\AccessApp.Properties.Resources.resources
+c:\users\max\documents\visual studio 2017\Projects\AccessApp\AccessApp\obj\Debug\AccessApp.csproj.GenerateResource.Cache
+c:\users\max\documents\visual studio 2017\Projects\AccessApp\AccessApp\obj\Debug\AccessApp.exe
+c:\users\max\documents\visual studio 2017\Projects\AccessApp\AccessApp\obj\Debug\AccessApp.pdb
+c:\users\max\documents\visual studio 2017\Projects\AccessApp\AccessApp\obj\Debug\AccessApp.Form2.resources
